@@ -46,7 +46,7 @@ public class Administrador extends Usuario {
 
         JButton buttonAdicionarNormativa = new JButton("Adicionar Normativa");
         JButton buttonModificarNormativa = new JButton("Modificar Normativa");
-        JButton buttonEliminarNormativa = new JButton("Elimininar Normativa");
+        JButton buttonEliminarNormativa = new JButton("Elimininar Normati");
 
         panelUsuarios.add(buttonCrearUsuario);
         panelUsuarios.add(buttonModificarUsuario);
